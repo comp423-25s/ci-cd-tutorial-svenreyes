@@ -8,7 +8,7 @@ from services import TimezoneService
 app = FastAPI()
 
 
-TIMEZONES = [,
+TIMEZONES = [
     "Africa/Johannesburg",
     "America/New_York",
 ]
